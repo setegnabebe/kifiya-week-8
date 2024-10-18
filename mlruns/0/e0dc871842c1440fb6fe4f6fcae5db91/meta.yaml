@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sa/Documents/GitHub/kifiya-week-8-9/mlruns/0/e0dc871842c1440fb6fe4f6fcae5db91/artifacts
+end_time: 1729227540658
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0dc871842c1440fb6fe4f6fcae5db91
+run_name: bittersweet-stag-839
+run_uuid: e0dc871842c1440fb6fe4f6fcae5db91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729227539205
+status: 3
+tags: []
+user_id: sa
